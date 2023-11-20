@@ -78,4 +78,6 @@
 - 카카오톡의 디자인 및 시각 적인 부분을 클론한 프로젝트
 - 개발 기간 2021.01 ~ 2021.02
 - 개인 프로젝트
-- 프로젝트 주소 : https://github.com/jongwon-kr/2021-01-02-kokoa
+- HTML, CSS, JS 사용
+- 프로젝트 주소 : https://github.com/jongwon-kr/kokoaClone
+- 
