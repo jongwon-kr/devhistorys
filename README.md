@@ -83,4 +83,3 @@
 - 개인 프로젝트
 - HTML, CSS, JS 사용
 - 프로젝트 주소 : https://github.com/jongwon-kr/kokoaClone
-- 
