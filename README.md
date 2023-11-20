@@ -10,7 +10,7 @@
 - C++
 - C#
 - Python
-- HTML, CSS, JS
+- HTML, CSS, JS, XML
 
 ## 사용 플랫폼 및 기술
 - Oracle DB
