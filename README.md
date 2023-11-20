@@ -38,7 +38,7 @@
 - 개발 기간 : 2023.08
 - 개인 프로젝트
 - 네이버 웹툰 데이터를 Api를 이용하여 불러와 보여주는 서비스
-- 프로젝트 주소 : https://github.com/jongwon-kr/dartProject/tree/main/webtoonproject/webtoon
+- 프로젝트 주소 : https://github.com/jongwon-kr/WebtoonProject
 
 ### JAVA 프로젝트
 1. 원격제어 및 통신 프로그램
