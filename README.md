@@ -53,7 +53,7 @@
 - 개발기간 : 2022.01 ~ 2022.03
 - 개인 프로젝트
 - JAVA의 swing을 통한 오목게임, 가중치 알고리즘을 이용한 인공지능 컴퓨터와 대결 기능 제공
-- 프로젝트 주소 : https://github.com/jongwon-kr/remoteControl
+- 프로젝트 주소 : https://github.com/jongwon-kr/omokGame
 
 #### 3. 실시간 인기 검색어
 - 네이버뉴스의 인기, 연예 카테고리에 있는 데이터들을 분석하여 가장 인기 있는 top10을 제공
