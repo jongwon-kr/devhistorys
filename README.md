@@ -36,7 +36,7 @@
 - Firebase(인증, 데이터베이스)사용
 - 구현 서비스 : 문진을 통한 질환예측 서비스, 질환백과 열람 서비스, 아두이노를 통한 자가 진단 서비스 제공
 - OpenAi ChatGPT를 연동하여 Q&A서비스 제공
-- 프로젝트 주소 : https://github.com/jongwon-kr/medical-app-univ-project
+- 프로젝트 주소 : https://github.com/jongwon-kr/medical-app-univ-project-
   
 #### 2. 웹툰 앱 프로젝트
 - 노마드 코더 플러터 웹툰 프로젝트
