@@ -50,7 +50,7 @@
 - 가상화폐 매매 및 정보 확인 서비스, 자동매매 서비스 구현 프로젝트
 - 개발 기간 : 2023.11 ~
 - 개인 프로젝트
-- springboot, python
+- springboot, python, upbit API
 - 프로젝트 주소 : https://github.com/jongwon-kr/BitProject
 
 ### JAVA 프로젝트
