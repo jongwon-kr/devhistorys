@@ -1,8 +1,8 @@
 # 포트폴리오
 ## 소개
 - 이름 : 김종원
-- 주 관심사 : 백엔드, flutter 개발, java 개발
-- 학력 : 동의대학교 컴퓨터공학과 2018.03 ~ 2024.02
+- 주 관심사 : java, spring framework 백엔드, flutter 앱
+- 학력 : 동의대학교 컴퓨터공학과 2018.03 ~ 2024.02(졸업)
 
 ## 자격증
 - 정보처리기사(2023.06)
@@ -19,11 +19,14 @@
 - HTML, CSS, JS, XML
 
 ## 사용 플랫폼 및 기술
-- Oracle DB
 - Firebase
+- AmazonAWS
+- OracleDB
+- Mysql
+- Intellij
 - Android Studio
 - Eclipse
-- VS code
+- VScode
 - Github
 - OpenAI
 
