@@ -10,8 +10,9 @@
 - IOT지식능력검정(2023.12)
 
 ## 사용 및 경험한 언어
-- java
-- dart
+- Java(main)
+- Dart(main)
+- Sql
 - C
 - C++
 - C#
